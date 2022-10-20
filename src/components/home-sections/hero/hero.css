@@ -1,0 +1,54 @@
+.hero-container{
+
+    height: 100vh;
+    max-height: 100vh;
+
+}
+#backgroundvideo{position:inherit;
+z-index: -1;
+width: 100vw;
+height: 100vh;
+}
+.homepagehero{
+    position: absolute;
+    background-color: gainsboro;
+    opacity: 55%;
+    filter: drop-shadow(8px 11px 25px black);
+    height: 60vh;
+    width: 50vw;
+    margin-top: -80vh;
+    margin-left: 25vw;
+    border-radius: 5%;
+    z-index: 0;
+    
+}
+.herotext{
+    position: absolute;
+    margin-top: -65vh;
+    margin-left: 33vw;
+    font-family: none;
+}
+.hero-sub-title{
+    
+}
+
+.hero-title{ font-size: 8vh;
+line-height: 25vh;
+font-weight: 800;
+}
+
+.hero-btn-container{
+    
+}
+
+.hero-btn{    width: 10vw;
+    background-color: #336cc2;
+    height: 9vh;
+    border-radius: 10%;
+    border-color: transparent;
+
+}
+.hero-btn:hover{background-color: white;
+    transition: 0.50s ease-out;
+
+}

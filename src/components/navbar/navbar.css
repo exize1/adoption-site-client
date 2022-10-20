@@ -1,0 +1,89 @@
+ 
+.mainnav{
+    position: fixed;
+    background-color: white;
+    width: 100vw;
+    z-index: 6;
+    max-width: 100vw;
+    box-shadow: 0px 0px 10px 0px rgb(4 17 29 / 25%);
+}
+ .logoimg{
+    height: 13vh;
+    margin-top: -3vh;
+    width: fit-content;
+    margin-right: -20vw;
+ }
+ .navitems {
+    display: flex !important;
+    flex-wrap: inherit !important;
+    align-items: center !important;
+    justify-content: space-evenly!important;
+    flex-direction: row-reverse!important;
+    margin: 0% !important;
+}
+
+.navbtn1{height: 5vh;
+    width: 8vw;
+    background-color: transparent;
+    border-color: transparent;
+    margin-left: -10vw;
+    font-weight: bold;
+
+}
+.navbtn2{
+    height: 5vh;
+    width: 8vw;
+    background-color: transparent;
+    border-color: transparent;
+    font-weight: bold;
+}
+.navbtn3{
+    height: 5vh;
+    width: 8vw;
+    background-color: transparent;
+    border-color: transparent;
+    font-weight: bold;
+}
+.navbtn4{
+    height: 5vh;
+    width: 8vw;
+    background-color: transparent;
+    border-color: transparent;
+    font-weight: bold;
+}
+.navbtn5{
+    height: 5vh;
+    width: 8vw;
+    background-color: transparent;
+    border-color: transparent;
+    font-weight: bold;
+}
+
+.navphonenumber{
+    margin-right: -10vw;
+    color: #f06292;
+    font-family: sans-serif;
+    font-size: 30px;
+    
+}
+.navbtn1:hover{color:  #f06293;
+    transition: 0.50s ease-out;
+    
+
+}
+.navbtn2:hover{color:  #f06293;
+    transition: 0.50s ease-out;
+
+}
+.navbtn3:hover{color:  #f06293;
+    transition: 0.50s ease-out;
+
+}
+.navbtn4:hover{color:  #f06293;
+    transition: 0.50s ease-out;
+
+}
+.navbtn5:hover{color:  #f06293;
+    transition: 0.50s ease-out;
+
+}
